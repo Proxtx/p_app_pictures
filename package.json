@@ -1,0 +1,20 @@
+{
+  "name": "p_app_pictures",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Proxtx/p_app_pictures.git"
+  },
+  "author": "Proxtx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Proxtx/p_app_pictures/issues"
+  },
+  "homepage": "https://github.com/Proxtx/p_app_pictures#readme"
+}
