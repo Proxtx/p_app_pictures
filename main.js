@@ -2,7 +2,7 @@ import { registerAppEvent } from "../../private/playbackLoader.js";
 import fs from "fs/promises";
 
 export class App {
-  updateCheckInterval = 1 * 60 * 1000;
+  updateCheckInterval = 5 * 60 * 1000;
 
   constructor(config) {
     this.config = config;
